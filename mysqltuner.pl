@@ -1,1 +1,1 @@
-mysqltuner-perl/mysqltuner.pl
+src/mysqltuner-perl/mysqltuner.pl
